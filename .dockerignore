@@ -1,6 +1,7 @@
 .git
 .gitignore
 .dockerignore
+LICENSE
 .jekyll-cache/
 _site/
 CNAME
