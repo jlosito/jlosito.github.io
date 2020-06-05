@@ -1,6 +1,7 @@
 .git
 .gitignore
 .dockerignore
+Dockerfile
 LICENSE
 .jekyll-cache/
 _site/
